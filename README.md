@@ -33,6 +33,10 @@ This project aims to analyze the factors of IBM Employee Attrition by informatio
 - report.pdf
 
 
+## Structure
+[Structure](report_structure.png)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
