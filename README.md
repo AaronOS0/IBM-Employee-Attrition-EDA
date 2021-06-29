@@ -34,7 +34,7 @@ This project aims to analyze the factors of IBM Employee Attrition by informatio
 
 
 ## Structure
-[Structure](report_structure.png)
+![Structure](report_structure.png)
 
 
 ## License
